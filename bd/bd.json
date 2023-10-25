@@ -1,0 +1,32 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "nombre_area": "finanzas",
+      "nombre_encargado": "Jose Linares",
+      "numero_funcionarios": 4
+    },
+    {
+      "nombre_area": "Sistemas",
+      "nombre_encargado": "orlando",
+      "numero_funcionarios": 3,
+      "id": 2
+    },
+    {
+      "nombre_area": "Contabilidad",
+      "nombre_encargado": "Jorge Falcon",
+      "numero_funcionarios": 2,
+      "id": 3
+    }
+  ],
+  "activos": [
+    {
+      "id": 1,
+      "tipo_activo": "computadora",
+      "marca": "HP",
+      "modelo": "pavilion 360",
+      "estado": 0,
+      "areaId": 1
+    }
+  ]
+}
