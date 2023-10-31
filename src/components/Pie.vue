@@ -27,6 +27,7 @@ export default {
 .pie p{
   margin: 0;
   padding: 0;
+  color:#fff;
 }
 </style>
 

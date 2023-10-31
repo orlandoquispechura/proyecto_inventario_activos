@@ -17,6 +17,18 @@
       "nombre_encargado": "Jorge Falcon",
       "numero_funcionarios": 2,
       "id": 3
+    },
+    {
+      "nombre_area": "Soporte técnico",
+      "nombre_encargado": "Moisés Paz",
+      "numero_funcionarios": 6,
+      "id": 4
+    },
+    {
+      "nombre_area": "administración ",
+      "nombre_encargado": "Julia may",
+      "numero_funcionarios": 5,
+      "id": 5
     }
   ],
   "activos": [
@@ -27,6 +39,38 @@
       "modelo": "pavilion 360",
       "estado": 0,
       "areaId": 1
+    },
+    {
+      "id": 2,
+      "tipo_activo": "monitor",
+      "marca": "LG",
+      "modelo": "cosita",
+      "estado": 1,
+      "areaId": 2
+    },
+    {
+      "tipo_activo": "televisor 50 pulgadas",
+      "marca": "crown",
+      "modelo": "cr-tv50",
+      "estado": 2,
+      "areaId": 1,
+      "id": 3
+    },
+    {
+      "tipo_activo": "impresora",
+      "marca": "cannon",
+      "modelo": "mp25",
+      "estado": 0,
+      "areaId": 3,
+      "id": 4
+    },
+    {
+      "tipo_activo": "cpu hp",
+      "marca": "hp",
+      "modelo": "intel ",
+      "estado": 1,
+      "areaId": 4,
+      "id": 5
     }
   ]
 }
