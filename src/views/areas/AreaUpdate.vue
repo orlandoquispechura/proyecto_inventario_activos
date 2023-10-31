@@ -1,7 +1,7 @@
 <template>
-    <div class="container "> <br><br>
+    <div class="container"> <br><br>
         <div class="row ">
-            <div class="col s12 m6">
+            <div class="col s12 m12 l6">
                 <div class="card">
                     <div class="card-content">
                         <form @submit.prevent="update()">
@@ -78,8 +78,5 @@ export default {
 </script>
 
 
-<style lang="scss">
-.col {
-    margin: 0 auto;
-}
+<style lang="scss"> 
 </style>

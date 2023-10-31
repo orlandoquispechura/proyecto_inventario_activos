@@ -7,28 +7,16 @@
       "numero_funcionarios": 4
     },
     {
-      "nombre_area": "Sistemas",
-      "nombre_encargado": "orlando",
+      "nombre_area": "sistemas",
+      "nombre_encargado": "maria cardenas",
       "numero_funcionarios": 3,
       "id": 2
     },
     {
-      "nombre_area": "Contabilidad",
-      "nombre_encargado": "Jorge Falcon",
-      "numero_funcionarios": 2,
-      "id": 3
-    },
-    {
       "nombre_area": "Soporte técnico",
       "nombre_encargado": "Moisés Paz",
-      "numero_funcionarios": 6,
+      "numero_funcionarios": 2,
       "id": 4
-    },
-    {
-      "nombre_area": "administración ",
-      "nombre_encargado": "Julia may",
-      "numero_funcionarios": 5,
-      "id": 5
     }
   ],
   "activos": [
@@ -44,7 +32,7 @@
       "id": 2,
       "tipo_activo": "monitor",
       "marca": "LG",
-      "modelo": "cosita",
+      "modelo": "LG-21",
       "estado": 1,
       "areaId": 2
     },
@@ -55,22 +43,6 @@
       "estado": 2,
       "areaId": 1,
       "id": 3
-    },
-    {
-      "tipo_activo": "impresora",
-      "marca": "cannon",
-      "modelo": "mp25",
-      "estado": 0,
-      "areaId": 3,
-      "id": 4
-    },
-    {
-      "tipo_activo": "cpu hp",
-      "marca": "hp",
-      "modelo": "intel ",
-      "estado": 1,
-      "areaId": 4,
-      "id": 5
     }
   ]
 }
